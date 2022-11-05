@@ -2,7 +2,7 @@
 # https://github.com/github/linguist/blob/master/docs/overrides.md
 # https://github.com/github/linguist/blob/master/README.md#L48-52
  
-* linguist-vendored=true
+* linguist-detectable=true
 #*.cs linguist-vendored=false
 
 ###############################################################################
